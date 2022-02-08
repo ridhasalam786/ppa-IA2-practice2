@@ -10,3 +10,4 @@ Enter a side:   2
 Enter a side:   2
 Enter a side:   3
 Triangle is not scalene.
+
