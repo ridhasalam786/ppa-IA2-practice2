@@ -1,1 +1,12 @@
+ gcc -g p2original.c; ./a.out
+Enter a side:   2
+Enter a side:   3
+Enter a side:   4
+Triangle with sides 2,3 & 4 is scalene.
 
+
+ gcc -g p2original.c; ./a.out
+Enter a side:   2
+Enter a side:   2
+Enter a side:   3
+Triangle is not scalene.
