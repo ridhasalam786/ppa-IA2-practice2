@@ -5,4 +5,5 @@ Enter a number:     8
 
  gcc -g p3original.c; ./a.out
 Enter a number:     2
-2 is not a composite number. 
+2 is not a composite number.
+
