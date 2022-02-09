@@ -7,5 +7,3 @@ GCD for the given two numbers 12 & 16 is 4
 Enter a number:     1
 Enter a number:     5
 GCD for the given two numbers 1 & 5 is 1
-
-
