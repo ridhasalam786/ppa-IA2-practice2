@@ -1,1 +1,8 @@
+ gcc -g p6original.c; ./a.out
+Enter the string:   ridha
+The reverse of ridha is ahdir 
 
+
+ gcc -g p6original.c; ./a.out
+Enter the string:   salam
+The reverse of salam is malas 
